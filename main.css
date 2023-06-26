@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.card {
+  background-color: white;
+  border-radius: 6px;
+  width: 300px;
+  height: 450px;
+}
+.qr-img img{
+  width: fit-content;
+}
